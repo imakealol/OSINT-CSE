@@ -26,11 +26,13 @@ Extended Reddit Search
 - [TikTok CSE](https://cse.google.com/cse?cx=011444696387487602669%3Aaqf7d9w73om#gsc.tab=0)
 
 ## Most wanted and sanctioned
-- [FBI most wanted](https://cse.google.com/cse?cx=1ee952e6584aa91f9) – fugitives, criminals, terrorists, etc. wanted by the FBI.
-- [OFAC sanctioned](https://cse.google.com/cse?cx=e96467889fb82b9b0) – persons and organisations under US sanctions – from terror groups to rogue states.
+- [FBI most wanted](https://cse.google.com/cse?cx=1ee952e6584aa91f9). Search for fugitives, criminals, terrorists, etc. wanted by the FBI.
+- [OFAC sanctioned](https://cse.google.com/cse?cx=e96467889fb82b9b0). Searh for persons and organisations under US sanctions – from terror groups to rogue states.
 
 ## Documents and Statistics
 - [Doc Search](https://cse.google.com/cse?cx=e6756edc507bcfa91). Search for .pdf, .doc, .docx, .txt, .xml
+- [Doc Search 2](https://cse.google.com/cse?cx=009462381166450434430:nudphlkt3p4). Search for Word, PowerPoint, Text, Excel, PDF
+- [Doc search 3](http://cse.google.com/cse/publicurl?cx=001788166376325824197:ff1tsbv1c6m). Zoominfo and doc search
 - [Russian Court Documents Search](https://cse.google.com/cse?cx=174a936942534442e#gsc.tab=0).
 No filters by region, you will need the help of someone who understands the administrative division in Russia
 - [StatKZKGUZTJ](https://cse.google.com/cse?cx=a72e762da6ab1440a#gsc.tab=0).
@@ -44,6 +46,7 @@ Search for fact-checks in Russian on trusted fact-checking sources (most of them
 - [File-sharind CSE](https://cse.google.com/cse?cx=f466f6ea4886845d1)
 - [Amazon Cloud CSE](https://cse.google.com/cse?cx=005797772976587943970:g-6ohngosio#gsc.tab=0)
 - [OSINT Me - Google Drive CSE](https://cse.google.com/cse?cx=c64ba311eb8c31896)
+- [Google Drive Folders Search](https://cse.google.com/cse/publicurl?cx=013991603413798772546:nwzqlcysx_w)
 - [Slideshare Search CSE](https://cse.google.com/cse?cx=465eeeb114c7f523f)
 
 ## Webcam
