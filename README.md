@@ -5,6 +5,7 @@ I made a few CSEs for my own needs, but they could be useful for others, especia
  - [Social](#social-and-people-search)
 - [Most Wanted and Sanctioned](#most-wanted-and-sanctioned)
  - [Stats and Docs](#documents-and-statistics)
+ - [Wikileaks](#wikileaks)
  - [Fact-checks](#fact-checks)
  - [File Sharing and Clouds](#files-and-clouds)
 - [Webcam Search](#webcam)
@@ -37,7 +38,8 @@ Extended Reddit Search
 No filters by region, you will need the help of someone who understands the administrative division in Russia
 - [StatKZKGUZTJ](https://cse.google.com/cse?cx=a72e762da6ab1440a#gsc.tab=0).
 CSE for official statistics of Kazakhstan, Kyrgyz Republic, Tajikistan, Turkmenistan, Uzbekistan, and Eurasian Economic Union. Language: any, interface: Russian.
-
+## Wikileaks
+- [Wikileaks CSE](http://cse.google.com/cse/home?cx=000893276566003557773:imp7zqctk60)
 ## Fact-checks
 - [Fact-Checks IFCN RL](https://cse.google.com/cse?cx=63511be8f42c947cd#gsc.tab=0)
 Search for fact-checks in Russian on trusted fact-checking sources (most of them are the IFCN signatories). Language/interface: Russian.
