@@ -3,19 +3,19 @@ I made a few CSEs for my own needs, but they could be useful for others, especia
 
  ## Table of content:
  - [Social](#social-and-people-search)
-- [Most Wanted and Sanctioned](#most-wanted-and-sanctioned)
+ - [Most Wanted and Sanctioned](#most-wanted-and-sanctioned)
  - [Stats and Docs](#documents-and-statistics)
  - [Wikileaks](#wikileaks)
  - [Fact-checks](#fact-checks)
  - [File Sharing and Clouds](#files-and-clouds)
-- [Webcam Search](#webcam)
+ - [Webcam Search](#webcam)
  - [Pastebin](#pastebin)
 
 ## Social and People Search
 
 - [Name Search CSE](https://cse.google.com/cse?cx=partner-pub-7233843800519946:6667570044&ie=UTF-8&q=). Search open address books (name, surname ZIP)
 
-- [Social Acounts Search](https://cse.google.com/cse?cx=029ffbc44aa3946cb#gsc.tab=0).
+- [Social Accounts Search](https://cse.google.com/cse?cx=029ffbc44aa3946cb#gsc.tab=0).
 Search for names, nicknames or any text on Facebook, Instagram, OK, VK, Telegram, TikTok, YandexDzen, X (Twitter), LiveJournal, YouTube, 2ch and Substack and WebArchive. Language: any, interface: Russian.
 
 - [Linkedin UK CSE](https://cse.google.com/cse?cx=006639709984028990467:nl9wxsfepb0#gsc.tab=0).
