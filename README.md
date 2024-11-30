@@ -1,5 +1,5 @@
 # OSINT Custom Search Engines
-I made a few CSEs for my own needs, but they could be useful for others, especially in Central Asia and Russian-speaking areas. I also added some CSEs by [CyberYozh](https://cyberyozh.com/), [cipher387](https://github.com/cipher387/pastebinsearchengines), [OSINT ME](https://www.osintme.com/index.php/2020/09/28/using-the-google-custom-search-engine-for-osint/) and [cqcore](https://github.com/The-Osint-Toolbox/Custom-Search-Engines) to this list; see the list below.
+I made a few CSEs for my own needs, but they could be useful for others, especially in Central Asia and Russian-speaking areas. I also added some CSEs by [CyberYozh](https://cyberyozh.com/), [cipher387](https://github.com/cipher387/pastebinsearchengines), [OSINT ME](https://www.osintme.com/index.php/2020/09/28/using-the-google-custom-search-engine-for-osint/) and [cqcore](https://github.com/The-Osint-Toolbox/Custom-Search-Engines) to this list; see the list below. All these CSE's are manually tested and work well. If not, please, open an issue. 
 
  ## Table of content:
  - [Social](#social-and-people-search)
