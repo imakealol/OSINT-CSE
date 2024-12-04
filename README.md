@@ -23,6 +23,9 @@ Extended Reddit Search
 - [TikTok CSE](https://cse.google.com/cse?cx=011444696387487602669%3Aaqf7d9w73om#gsc.tab=0)
 - [Intel X Telegram Search](https://intelx.io/tools?tab=telegram)
 
+## Job Search Sites
+- [Australia Job Search SCE by Pogoda](https://cse.google.com/cse?cx=b176f3be81f18412b)
+
 ## Most wanted and sanctioned
 - [FBI most wanted](https://cse.google.com/cse?cx=1ee952e6584aa91f9). Search for fugitives, criminals, terrorists, etc. wanted by the FBI.
 - [OFAC sanctioned](https://cse.google.com/cse?cx=e96467889fb82b9b0). Searh for persons and organisations under US sanctions – from terror groups to rogue states.
