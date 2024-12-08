@@ -25,6 +25,10 @@ Extended Reddit Search
 ### CSE for different Countries, Languages and SN
 - [Iran Social Media Search CSE by Pogoda](https://cse.google.com/cse?cx=a69e29b24a5804272)
 - [Social Accounts Search in Russian by Pogoda](https://cse.google.com/cse?cx=029ffbc44aa3946cb#gsc.tab=0). Work well for countries with Russian-speaking communities
+- [Russian Court Documents Search](https://cse.google.com/cse?cx=174a936942534442e#gsc.tab=0).
+No filters by region, you will need the help of someone who understands the administrative division in Russia
+- [Central Asia and EEU Statistics CSE by Pogoda](https://cse.google.com/cse?cx=a72e762da6ab1440a#gsc.tab=0).
+CSE for official statistics of Kazakhstan, Kyrgyz Republic, Tajikistan, Turkmenistan, Uzbekistan, and Eurasian Economic Union. Language: any, interface: Russian.
   
 #### Job Search Sites
 - [Australia Job Search SCE by Pogoda](https://cse.google.com/cse?cx=b176f3be81f18412b)
@@ -34,14 +38,11 @@ Extended Reddit Search
 - [FBI most wanted](https://cse.google.com/cse?cx=1ee952e6584aa91f9). Search for fugitives, criminals, terrorists, etc. wanted by the FBI.
 - [OFAC sanctioned](https://cse.google.com/cse?cx=e96467889fb82b9b0). Searh for persons and organisations under US sanctions – from terror groups to rogue states.
 
-## Documents and Statistics
+## Documents
 - [Doc Search](https://cse.google.com/cse?cx=e6756edc507bcfa91). Search for .pdf, .doc, .docx, .txt, .xml
 - [Doc Search 2](https://cse.google.com/cse?cx=009462381166450434430:nudphlkt3p4). Search for Word, PowerPoint, Text, Excel, PDF
 - [Doc search 3](http://cse.google.com/cse/publicurl?cx=001788166376325824197:ff1tsbv1c6m). Zoominfo and doc search
-- [Russian Court Documents Search](https://cse.google.com/cse?cx=174a936942534442e#gsc.tab=0).
-No filters by region, you will need the help of someone who understands the administrative division in Russia
-- [Central Asia and EEU Statistics CSE by Pogoda](https://cse.google.com/cse?cx=a72e762da6ab1440a#gsc.tab=0).
-CSE for official statistics of Kazakhstan, Kyrgyz Republic, Tajikistan, Turkmenistan, Uzbekistan, and Eurasian Economic Union. Language: any, interface: Russian.
+
 ## Wikileaks
 - [Wikileaks CSE](http://cse.google.com/cse/home?cx=000893276566003557773:imp7zqctk60)
 ## Fact-checks
