@@ -22,10 +22,13 @@ Search for UK accounts on LinkedIn
 Extended Reddit Search 
 - [TikTok CSE](https://cse.google.com/cse?cx=011444696387487602669%3Aaqf7d9w73om#gsc.tab=0)
 - [Intel X Telegram Search](https://intelx.io/tools?tab=telegram)
-### CSE for Countries
+### CSE for different Countries, Languages and SN
 - [Iran Social Media Search CSE by Pogoda](https://cse.google.com/cse?cx=a69e29b24a5804272)
+- [Social Accounts Search in Russian by Pogoda](https://cse.google.com/cse?cx=029ffbc44aa3946cb#gsc.tab=0). Work well for countries with Russian-speaking communities
+  
 #### Job Search Sites
 - [Australia Job Search SCE by Pogoda](https://cse.google.com/cse?cx=b176f3be81f18412b)
+- [HeadHunter Search by Pogoda](https://cse.google.com/cse?cx=871c0071ee7ea4c00#gsc.tab=0). Search on HeadHunter platform in Russia, Belarus, Kazakhstan and Uzbekistan
 
 ## Most wanted and sanctioned
 - [FBI most wanted](https://cse.google.com/cse?cx=1ee952e6584aa91f9). Search for fugitives, criminals, terrorists, etc. wanted by the FBI.
