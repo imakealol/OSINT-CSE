@@ -40,7 +40,7 @@ Extended Reddit Search
 - [Doc search 3](http://cse.google.com/cse/publicurl?cx=001788166376325824197:ff1tsbv1c6m). Zoominfo and doc search
 - [Russian Court Documents Search](https://cse.google.com/cse?cx=174a936942534442e#gsc.tab=0).
 No filters by region, you will need the help of someone who understands the administrative division in Russia
-- [StatKZKGUZTJ](https://cse.google.com/cse?cx=a72e762da6ab1440a#gsc.tab=0).
+- [Central Asia and EEU Statistics CSE by Pogoda](https://cse.google.com/cse?cx=a72e762da6ab1440a#gsc.tab=0).
 CSE for official statistics of Kazakhstan, Kyrgyz Republic, Tajikistan, Turkmenistan, Uzbekistan, and Eurasian Economic Union. Language: any, interface: Russian.
 ## Wikileaks
 - [Wikileaks CSE](http://cse.google.com/cse/home?cx=000893276566003557773:imp7zqctk60)
