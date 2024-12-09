@@ -23,7 +23,7 @@ Search for UK accounts on LinkedIn
 Extended Reddit Search 
 - [TikTok CSE](https://cse.google.com/cse?cx=011444696387487602669%3Aaqf7d9w73om#gsc.tab=0)
 - [Intel X Telegram Search](https://intelx.io/tools?tab=telegram)
-- 
+  
 ### CSE for different Countries, Languages and SN
 - [Iran Social Media Search CSE by Pogoda](https://cse.google.com/cse?cx=a69e29b24a5804272)
 - [Social Accounts Search in Russian by Pogoda](https://cse.google.com/cse?cx=029ffbc44aa3946cb#gsc.tab=0). Work well for countries with Russian-speaking communities
@@ -54,7 +54,7 @@ CSE for official statistics of Kazakhstan, Kyrgyz Republic, Tajikistan, Turkmeni
 Search for fact-checks in Russian on trusted fact-checking sources (most of them are the IFCN signatories). Language/interface: Russian.
 
 ## Files and Clouds
-- [File-sharind CSE](https://cse.google.com/cse?cx=f466f6ea4886845d1)
+- [File-sharing Sites CSE](https://cse.google.com/cse?cx=f466f6ea4886845d1)
 - [Amazon Cloud CSE](https://cse.google.com/cse?cx=005797772976587943970:g-6ohngosio#gsc.tab=0)
 - [OSINT Me - Google Drive CSE](https://cse.google.com/cse?cx=c64ba311eb8c31896)
 - [Google Drive Folders Search](https://cse.google.com/cse/publicurl?cx=013991603413798772546:nwzqlcysx_w)
