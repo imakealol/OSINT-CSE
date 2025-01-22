@@ -17,6 +17,7 @@ One day I made a few CSEs for my own needs, and understood that they could be us
 - [Name Search CSE](https://cse.google.com/cse?cx=partner-pub-7233843800519946:6667570044&ie=UTF-8&q=). Search open address books (name, surname ZIP)
 - [Social Accounts Search](https://cse.google.com/cse?cx=029ffbc44aa3946cb#gsc.tab=0).
 Search for names, nicknames or any text on Facebook, Instagram, OK, VK, Telegram, TikTok, YandexDzen, X (Twitter), LiveJournal, YouTube, 2ch and Substack and WebArchive. Language: any, interface: Russian.
+- [SearchPOF](https://searchpof.com). Seaarch on Facebook, Twitter, Instagram, YouTube, Pinterest, Snapchat
 - [Linkedin UK CSE](https://cse.google.com/cse?cx=006639709984028990467:nl9wxsfepb0#gsc.tab=0).
 Search for UK accounts on LinkedIn
 - [Reddit CSE](https://cse.google.com/cse?cx=007749065626525752968:qh5bqebwi30).
