@@ -24,6 +24,7 @@ Search for UK accounts on LinkedIn
 Extended Reddit Search 
 - [TikTok CSE](https://cse.google.com/cse?cx=011444696387487602669%3Aaqf7d9w73om#gsc.tab=0)
 - [Intel X Telegram Search](https://intelx.io/tools?tab=telegram)
+- [Xtea Telegram Search Engine](https://xtea.io/ts_en.html#gsc.tab=0)
   
 ### CSE for different Countries, Languages and SN
 - [Iran Social Media Search CSE by Pogoda](https://cse.google.com/cse?cx=a69e29b24a5804272)
