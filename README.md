@@ -55,7 +55,7 @@ CSE for official statistics of Kazakhstan, Kyrgyz Republic, Tajikistan, Turkmeni
 ### Fact-checks
 - [Fact-Checks IFCN RL](https://cse.google.com/cse?cx=63511be8f42c947cd#gsc.tab=0)
 Search for fact-checks in Russian on trusted fact-checking sources (most of them are the IFCN signatories). Language/interface: Russian.
-— [Perplexity Space for fact-checking and research by Pogoda](https://www.perplexity.ai/collections/fact-checker-test-J5GIgeg6QB.Dt7HpYNIjCA) Keep in maind that it still can hallucinate. Write me back if you have ideas for better system promt
+- [Perplexity Space for fact-checking and research by Pogoda](https://www.perplexity.ai/collections/fact-checker-test-J5GIgeg6QB.Dt7HpYNIjCA). Keep in maind that it still can hallucinate. Write me back if you have ideas for better system promt
 
 ### Files and Clouds
 - [File-sharing Sites CSE](https://cse.google.com/cse?cx=f466f6ea4886845d1)
