@@ -25,11 +25,13 @@ Extended Reddit Search
 - [TikTok CSE](https://cse.google.com/cse?cx=011444696387487602669%3Aaqf7d9w73om#gsc.tab=0)
 - [Intel X Telegram Search](https://intelx.io/tools?tab=telegram)
 - [Xtea Telegram Search Engine](https://xtea.io/ts_en.html#gsc.tab=0)
+- [Google Dork Based Name/Username/Phone Search](https://www.osintcanada.com/mobile-searches/mobile-search-tool)
   
 #### CSE for different Countries, Languages and SN
 - [Iran Social Media Search CSE by Pogoda](https://cse.google.com/cse?cx=a69e29b24a5804272)
 - [Social Accounts Search in Russian by Pogoda](https://cse.google.com/cse?cx=029ffbc44aa3946cb#gsc.tab=0). Work well for countries with Russian-speaking communities
 - [Whitepages Taiwan](https://whitepages.tw). Google CSE-based search for people, Yellow Pages, FB, Instagram, Linkedin, etc.
+- [Search Canadian Classifieds](https://www.osintcanada.com/desktop-tools/classified-property-search)
   
 ##### Job Search Sites
 - [Australia Job Search SCE by Pogoda](https://cse.google.com/cse?cx=b176f3be81f18412b)
