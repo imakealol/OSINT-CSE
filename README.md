@@ -3,7 +3,6 @@ One day I made a few CSEs for my own needs, and understood that they could be us
 
  ## Table of content:
  - [Social Search (Global)](#social-and-people-search)
- - [CSE for different Countries, Languages and Social Networks](#CSE-for-different-Countries-Languages-and-SN)
  - [Most Wanted and Sanctioned](#most-wanted-and-sanctioned)
  - [Stats and Docs](#documents-and-statistics)
  - [Wikileaks](#wikileaks)
@@ -23,6 +22,7 @@ Search for UK accounts on LinkedIn
 - [Reddit CSE](https://cse.google.com/cse?cx=007749065626525752968:qh5bqebwi30).
 Extended Reddit Search 
 - [TikTok CSE](https://cse.google.com/cse?cx=011444696387487602669%3Aaqf7d9w73om#gsc.tab=0)
+- [Who posted what?](https://whopostedwhat.com) - Facebook Custom Engine by Henk van Ess. It was brilliant before mr. Zuckerberg enshitified graph search, but WPW is still useful for some tasks.
 - [Intel X Telegram Search](https://intelx.io/tools?tab=telegram)
 - [Xtea Telegram Search Engine](https://xtea.io/ts_en.html#gsc.tab=0)
 - [Google Dork Based Name/Username/Phone Search](https://www.osintcanada.com/mobile-searches/mobile-search-tool)
