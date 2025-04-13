@@ -51,6 +51,7 @@ Extended Reddit Search
 #### Docs and Stats
 - [Russian Court Documents Search](https://cse.google.com/cse?cx=174a936942534442e#gsc.tab=0).
 No filters by region, you will need the help of someone who understands the administrative division in Russia
+- [Russian Court Documents Search by Pogoda](https://cse.google.com/cse?cx=975065745f9cc405d#gsc.tab=0). Filters for High Court added
 - [Central Asia and EEU Statistics CSE by Pogoda](https://cse.google.com/cse?cx=a72e762da6ab1440a#gsc.tab=0).
 CSE for official statistics of Kazakhstan, Kyrgyz Republic, Tajikistan, Turkmenistan, Uzbekistan, and Eurasian Economic Union. Language: any, interface: Russian.
 
