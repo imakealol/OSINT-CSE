@@ -54,13 +54,14 @@ No filters by region, you will need the help of someone who understands the admi
 - [Russian Court Documents Search by Pogoda](https://cse.google.com/cse?cx=975065745f9cc405d#gsc.tab=0). Filters added
 - [Central Asia and EEU Statistics CSE by Pogoda](https://cse.google.com/cse?cx=a72e762da6ab1440a#gsc.tab=0).
 CSE for official statistics of Kazakhstan, Kyrgyz Republic, Tajikistan, Turkmenistan, Uzbekistan, and Eurasian Economic Union. Language: any, interface: Russian.
+- [Search Statistics for Estonia, Latvia, and Lithuania](https://cse.google.com/cse?cx=a6f66d6fd28f54534)
 
 ### Wikileaks
 - [Wikileaks CSE](http://cse.google.com/cse/home?cx=000893276566003557773:imp7zqctk60)
 ### Fact-checks
 - [Fact-Checks IFCN RL](https://cse.google.com/cse?cx=63511be8f42c947cd#gsc.tab=0)
 Search for fact-checks in Russian on trusted fact-checking sources (most of them are the IFCN signatories). Language/interface: Russian.
-- [Perplexity Space for fact-checking and research by Pogoda](https://www.perplexity.ai/collections/fact-checker-test-J5GIgeg6QB.Dt7HpYNIjCA). Keep in maind that it still can hallucinate. Write me back if you have ideas for better system promt
+- [Perplexity Space for fact-checking and research by Pogoda](https://www.perplexity.ai/collections/fact-checker-test-J5GIgeg6QB.Dt7HpYNIjCA). Keep in maind that it still can hallucinate. Write me back if you have ideas for a better system prompt
 
 ### Files and Clouds
 - [File-sharing Sites CSE](https://cse.google.com/cse?cx=f466f6ea4886845d1)
