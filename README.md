@@ -67,7 +67,6 @@ Search for fact-checks in Russian on trusted fact-checking sources (most of them
 - [File-sharing Sites CSE](https://cse.google.com/cse?cx=f466f6ea4886845d1)
 - [Amazon Cloud CSE](https://cse.google.com/cse?cx=005797772976587943970:g-6ohngosio#gsc.tab=0)
 - [OSINT Me - Google Drive CSE](https://cse.google.com/cse?cx=c64ba311eb8c31896)
-- [Google Drive Folders Search](https://cse.google.com/cse/publicurl?cx=013991603413798772546:nwzqlcysx_w)
 - [Slideshare Search CSE](https://cse.google.com/cse?cx=465eeeb114c7f523f)
 
 ### Webcam
