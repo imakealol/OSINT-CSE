@@ -15,12 +15,12 @@ One day I made a few CSEs for my own needs, and understood that they could be us
 
 ### Social and People Search
 
+#### Global Search
 - [Name Search CSE](https://cse.google.com/cse?cx=partner-pub-7233843800519946:6667570044&ie=UTF-8&q=). Search open address books (name, surname ZIP)
 - [Social Accounts Search](https://cse.google.com/cse?cx=029ffbc44aa3946cb#gsc.tab=0).
 Search for names, nicknames or any text on Facebook, Instagram, OK, VK, Telegram, TikTok, YandexDzen, X (Twitter), LiveJournal, YouTube, 2ch and Substack and WebArchive. Language: any, interface: Russian.
+[Vortimo Social Search](https://cse.google.com/cse?cx=009983555355237802955:_kirhgouogi#gsc.tab=0). Search for names, nicknames or any text on many SN and pastebin sites 
 - [SearchPOF](https://searchpof.com). Seaarch on Facebook, Twitter, Instagram, YouTube, Pinterest, Snapchat
-- [Linkedin UK CSE](https://cse.google.com/cse?cx=006639709984028990467:nl9wxsfepb0#gsc.tab=0).
-Search for UK accounts on LinkedIn
 - [Reddit CSE](https://cse.google.com/cse?cx=007749065626525752968:qh5bqebwi30).
 Extended Reddit Search 
 - [TikTok CSE](https://cse.google.com/cse?cx=011444696387487602669%3Aaqf7d9w73om#gsc.tab=0)
@@ -34,6 +34,8 @@ Extended Reddit Search
 - [Social Accounts Search in Russian by Pogoda](https://cse.google.com/cse?cx=029ffbc44aa3946cb#gsc.tab=0). Work well for countries with Russian-speaking communities
 - [Whitepages Taiwan](https://whitepages.tw). Google CSE-based search for people, Yellow Pages, FB, Instagram, Linkedin, etc.
 - [Search Canadian Classifieds](https://www.osintcanada.com/desktop-tools/classified-property-search)
+- - [Linkedin UK CSE](https://cse.google.com/cse?cx=006639709984028990467:nl9wxsfepb0#gsc.tab=0).
+Search for UK accounts on LinkedIn
   
 ##### Job Search Sites
 - [Australia Job Search SCE by Pogoda](https://cse.google.com/cse?cx=b176f3be81f18412b)
