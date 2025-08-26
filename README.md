@@ -4,7 +4,7 @@
 One day I made a few CSEs for my own needs, and understood that they could be useful for others, especially in Central Asia and Russian-speaking areas. Then I added to my list some CSEs by [CyberYozh](https://cyberyozh.com/), [cipher387](https://github.com/cipher387/pastebinsearchengines), [OSINT ME](https://www.osintme.com/index.php/2020/09/28/using-the-google-custom-search-engine-for-osint/) and [cqcore](https://github.com/The-Osint-Toolbox/Custom-Search-Engines), and more, and more; see the list below. All these CSE's are manually tested and work well. If not, please, open an issue. Feel free to add PR if you created your own CSE or discovered useful CSE that is not in the list. 
 
  ## Table of content:
- - [Social Search (Global)](#social-and-people-search)
+ - [Social Search (Global and Local)](#social-and-people-search)
  - [Most Wanted and Sanctioned](#most-wanted-and-sanctioned)
  - [Stats and Docs](#documents-and-statistics)
  - [Wikileaks](#wikileaks)
@@ -63,7 +63,7 @@ CSE for official statistics of Kazakhstan, Kyrgyz Republic, Tajikistan, Turkmeni
 ### Fact-checks
 - [Fact-Checks IFCN RL](https://cse.google.com/cse?cx=63511be8f42c947cd#gsc.tab=0)
 Search for fact-checks in Russian on trusted fact-checking sources (most of them are the IFCN signatories). Language/interface: Russian.
-- [Perplexity Space for fact-checking and research by Pogoda](https://www.perplexity.ai/collections/fact-checker-test-J5GIgeg6QB.Dt7HpYNIjCA). Keep in maind that it still can hallucinate. Write me back if you have ideas for a better system prompt
+- [Perplexity Space for fact-checking and research by Pogoda](https://www.perplexity.ai/collections/fact-checker-test-J5GIgeg6QB.Dt7HpYNIjCA). This is not a CSE, but I'll put it here. Keep in mind that it can still hallucinate. Write me back if you have ideas for a better system prompt
 
 ### Files and Clouds
 - [File-sharing Sites CSE](https://cse.google.com/cse?cx=f466f6ea4886845d1)
