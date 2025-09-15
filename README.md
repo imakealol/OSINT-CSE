@@ -35,7 +35,7 @@ Extended Reddit Search
 - [Social Accounts Search in Russian by Pogoda](https://cse.google.com/cse?cx=029ffbc44aa3946cb#gsc.tab=0). Work well for countries with Russian-speaking communities
 - [Whitepages Taiwan](https://whitepages.tw). Google CSE-based search for people, Yellow Pages, FB, Instagram, Linkedin, etc.
 - [Search Canadian Classifieds](https://www.osintcanada.com/desktop-tools/classified-property-search)
-- - [Linkedin UK CSE](https://cse.google.com/cse?cx=006639709984028990467:nl9wxsfepb0#gsc.tab=0).
+- [Linkedin UK CSE](https://cse.google.com/cse?cx=006639709984028990467:nl9wxsfepb0#gsc.tab=0).
 Search for UK accounts on LinkedIn
   
 ##### Job Search Sites
