@@ -34,6 +34,7 @@ Extended Reddit Search
 - [Intel X Telegram Search](https://intelx.io/tools?tab=telegram)
 - [Xtea Telegram Search Engine](https://xtea.io/ts_en.html#gsc.tab=0)
 - [Google Dork Based Name/Username/Phone Search](https://www.osintcanada.com/mobile-searches/mobile-search-tool)
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) data API for search, follower export, monitors, and MCP.
   
 #### CSE for different Countries, Languages and SN
 - [Iran Social Media Search CSE by Pogoda](https://cse.google.com/cse?cx=a69e29b24a5804272)
@@ -55,7 +56,7 @@ Search for UK accounts on LinkedIn
 #### Files by Type
 - [Doc Search](https://cse.google.com/cse?cx=e6756edc507bcfa91). Search for .pdf, .doc, .docx, .txt, .xml
 - [Doc Search 2](https://cse.google.com/cse?cx=009462381166450434430:nudphlkt3p4). Search for Word, PowerPoint, Text, Excel, PDF
-- [Doc search 3](http://cse.google.com/cse/publicurl?cx=001788166376325824197:ff1tsbv1c6m). Zoominfo and doc search
+- [Doc search 3](https://cse.google.com/cse/publicurl?cx=001788166376325824197:ff1tsbv1c6m). Zoominfo and doc search
 #### Docs and Stats
 - [Russian Court Documents Search](https://cse.google.com/cse?cx=174a936942534442e#gsc.tab=0).
 No filters by region, you will need the help of someone who understands the administrative division in Russia
