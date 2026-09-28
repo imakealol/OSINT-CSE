@@ -1,8 +1,10 @@
 # OSINT Custom Search Engines
-<img width="1431" alt="Image" src="https://github.com/user-attachments/assets/90725538-f597-40da-a3b2-09e92dfe0a8a" />
-
 
 # !IMPORTANT! Main and actualized repo moved here https://github.com/Provereno-Media/OSINT-CSE-2.0
+
+[Auto-updated Interactive Version is here](https://provereno-media.github.io/OSINT-CSE/) 
+
+<img width="1214" height="647" alt="CSEint" src="https://github.com/user-attachments/assets/da3ef3b6-8d37-459b-8d04-ffd12f8b3f09" />
 
 One day, I made a few CSEs for my own needs and understood that they could be useful to others, especially in Central Asia and Russian-speaking areas. Then I added to my list some CSEs by [CyberYozh](https://cyberyozh.com/), [cipher387](https://github.com/cipher387/pastebinsearchengines), [OSINT ME](https://www.osintme.com/index.php/2020/09/28/using-the-google-custom-search-engine-for-osint/) and [cqcore](https://github.com/The-Osint-Toolbox/Custom-Search-Engines), and more, and more; see the list below. 
 
